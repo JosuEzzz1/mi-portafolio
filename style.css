@@ -1,4 +1,11 @@
 body {
     font-family: sans-serif;
     background-color: #f0f0f0;
+    color: #48e;
+}
+
+section{
+    background-color: #adadad;
+    width: 100px;
+    height: 100px;
 }
